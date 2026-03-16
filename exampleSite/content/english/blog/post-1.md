@@ -2,7 +2,7 @@
 title: "Change the game"
 meta_title: ""
 description: "this is meta description"
-date: 2022-04-04T05:00:00.000Z
+date: 2026-03-16T17:00:00.000Z
 image: "/images/image-placeholder.png"
 categories:
   - Application
